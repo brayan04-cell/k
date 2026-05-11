@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Directo Kick</title>
+    <style>
+        body{
+            margin:0;
+            background:black;
+        }
+
+        iframe{
+            width:100vw;
+            height:100vh;
+            border:none;
+        }
+    </style>
+</head>
+<body>
+
+<iframe
+    src="https://kick.com/kingteka"
+    allowfullscreen>
+</iframe>
+
+</body>
+</html>
